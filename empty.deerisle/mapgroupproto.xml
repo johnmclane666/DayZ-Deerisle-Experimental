@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <prototype>
 		<defaults>
-				<default name="group" lootmax="6" />
-				<default name="container" lootmax="4" />
+				<default name="group" lootmax="8" />
+				<default name="container" lootmax="6" />
 				<default name="keepInvalidPoints" enabled="yes" />
 				<default name="clusterMatrix" de="TrajectoryApple" width="12" height="12"/>
 				<default name="clusterMatrix" de="TrajectoryStones" width="12" height="12"/>
@@ -76,6 +76,7 @@
 				<container name="lootFloor" lootmax="10">
 						<category name="containers" />
 						<category name="clothes" />
+						<category name="tools" />
 						<tag name="floor" />
 						<tag name="ground" />
 						<point pos="-3.064941 0.479675 -3.885498" range="0.203125" height="0.507813" />
@@ -245,6 +246,7 @@
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="weapons" />
+						<category name="tools" />
 						<point pos="-7.081787 2.683472 3.486022" range="0.203125" height="0.507813" flags="16" />
 						<point pos="3.483398 1.938843 2.155152" range="0.134375" height="0.335938" />
 						<point pos="1.016113 3.464539 3.851196" range="0.237500" height="0.593750" />
@@ -18055,15 +18057,25 @@
                 	</container>
 	    </group>		
 		<group name="Land_jmc_ruinecolumn_loot_center" lootmax="1">
-			<usage name="TempleCore" />   
-	            <container name="lootFloor" lootmax="1">
-	            <category name="weapons" />
-								<point pos="-0.441030 0.439246 -0.399075" range="0.5" height="1.5" /> 
-								<point pos="-0.038144 0.439246 -0.044720" range="0.5" height="1.5" /> 
-								<point pos="0.392042 0.439246 0.519333" range="0.5" height="1.5" /> 
-								<point pos="0.392042 0.439246 0.519333" range="0.5" height="1.5" />  
-                </container>
-	        </group>		
+			<usage name="TempleMjHead" />   
+			<container name="lootFloor" lootmax="1">
+			<category name="weapons" />
+							<point pos="-0.441030 0.439246 -0.399075" range="0.5" height="1.5" /> 
+							<point pos="-0.038144 0.439246 -0.044720" range="0.5" height="1.5" /> 
+							<point pos="0.392042 0.439246 0.519333" range="0.5" height="1.5" /> 
+							<point pos="0.392042 0.439246 0.519333" range="0.5" height="1.5" />  
+			</container>
+	    </group>	
+		<group name="Land_jmc_ruinecolumn_mjh" lootmax="1">
+			<usage name="TempleMjHandle" />   
+			<container name="lootFloor" lootmax="1">
+			<category name="weapons" />
+							<point pos="-0.441030 0.439246 -0.399075" range="0.5" height="1.5" /> 
+							<point pos="-0.038144 0.439246 -0.044720" range="0.5" height="1.5" /> 
+							<point pos="0.392042 0.439246 0.519333" range="0.5" height="1.5" /> 
+							<point pos="0.392042 0.439246 0.519333" range="0.5" height="1.5" />  
+			</container>
+	    </group>			
 		<group name="Land_Sara_zluty_statek_in" lootmax="8">										
 				<usage name="Village" />	
 				<usage name="Town" />	
@@ -18714,23 +18726,22 @@
 						<point pos="0.000000 0.200000 0.000000" range="1.0" height="1.0" />						
 				</container>
 		</group>		
-		<group name="Land_jmc_skeleton_burned_4" lootmax="1">
-				<usage name="Police" />
-				<usage name="Military" />
-				<container name="lootFloor" lootmax="1">
-						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
-						<category name="food" />
+		<group name="Land_jmc_skeleton_burned_4" lootmax="2">				
+				<usage name="SMK" />
+				<container name="lootFloor" lootmax="1">																	
 						<category name="weapons" />
 						<category name="explosives" />
 						<tag name="floor" />
 						<point pos="0.000000 0.200000 0.000000" range="0.9" height="1.5" /> 
+						<point pos="0.200000 0.200000 0.000000" range="0.9" height="1.5" /> 
+						<point pos="0.000000 0.200000 0.200000" range="0.9" height="1.5" /> 
 				</container>
 				<container name="lootweapons" lootmax="1">
 						<category name="weapons" />
 						<category name="explosives" />
 						<point pos="0.000000 0.200000 0.000000" range="1.0" height="1.0" />						
+						<point pos="0.200000 0.200000 0.000000" range="0.9" height="1.5" /> 
+						<point pos="0.000000 0.200000 0.200000" range="0.9" height="1.5" /> 
 				</container>
 		</group>		
 		<group name="Land_jmc_skeleton_burned_5" lootmax="1">
@@ -20397,6 +20408,22 @@
 						<point pos="-0.177049 0.655980 0.537409" range="1.4" height="1.5" /> 						
 						<point pos="-0.077049 0.655980 0.037409" range="1.4" height="1.5" /> 												
 				</container>
+		</group>	 
+		<group name="Land_jmc_lab_tablesmk" lootmax="4">
+				<usage name="SMK" />							
+				<container name="lootFloor" lootmax="4">						
+						<category name="weapons" />						
+						<tag name="floor" />						
+						<point pos="-0.077049 0.655980 0.237409" range="1.4" height="1.5" /> 						
+						<point pos="-0.177049 0.655980 0.537409" range="1.4" height="1.5" /> 						
+						<point pos="-0.077049 0.655980 0.037409" range="1.4" height="1.5" /> 						
+				</container>
+				<container name="lootweapons" lootmax="4">
+						<category name="weapons" />						
+						<point pos="-0.077049 0.655980 0.237409" range="1.4" height="1.5" /> 						
+						<point pos="-0.177049 0.655980 0.537409" range="1.4" height="1.5" /> 						
+						<point pos="-0.077049 0.655980 0.037409" range="1.4" height="1.5" /> 												
+				</container>
 		</group>		
 		<group name="Land_jmc_fastfood_Tray" lootmax="1">
 				<usage name="Town" />				
@@ -20422,8 +20449,7 @@
 				</container>
 		</group>
 		<group name="Land_Underground_Storage_Workshop" lootmax="30">
-				<usage name="Military" />
-				<usage name="Industrial" />
+				<usage name="Military" />				
 				<usage name="Underground" />				
 				<container name="lootTools" lootmax="10">
 						<category name="tools" />																			
@@ -20464,6 +20490,7 @@
 				<container name="lootFloor" lootmax="10">									
 						<category name="weapons" />
 						<category name="explosives" />
+						<category name="tools" />
 						<point pos="7.701721 0.585022 2.162843" range="0.734375" height="1.335938" />
 						<point pos="-5.861390 1.038391 5.652586" range="0.734375" height="1.335938" />
 						<point pos="7.792112 1.085022 -3.612307" range="0.768750" height="1.370001" />
@@ -20533,5 +20560,5 @@
 						<point pos="-2.084265 0.775879 0.056396" range="0.746875" height="1.667188" />
 						<point pos="-7.176184 0.937866 -1.379150" range="0.650000" height="1.625000" />
 				</container>
-		</group>
+		</group>				
 </prototype>

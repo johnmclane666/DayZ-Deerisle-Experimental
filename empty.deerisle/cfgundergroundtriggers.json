@@ -104,13 +104,6 @@
 			]
 		},
 		{ 	
-			"Position": [ 700, 0, 1200 ],
-			"Orientation": [ 0, 0, 0 ],
-			"Size": [ 1400, 280, 2400 ],
-			"EyeAccommodation": 0.5,
-			"Breadcrumbs": []
-		},
-		{ 	
 			"Position": [ 15620, 0, 14750 ],
 			"Orientation": [ 0, 0, 0 ],
 			"Size": [ 200, 510, 200 ],
@@ -125,6 +118,14 @@
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1  
 		},		
+		{ 	
+			"Position": [ 250, 0, 1685 ],
+			"Orientation": [ 0, 0, 0 ],
+			"Size": [ 400, 300, 500 ],
+			"EyeAccommodation": 0.05,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1  
+		},			
 		{ 	
 			"Position": [ 5887, 6, 13793],
 			"Orientation": [ 0, 0, 0 ],
