@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <prototype>
 		<defaults>
-				<default name="group" lootmax="8" />
-				<default name="container" lootmax="6" />
+				<default name="group" lootmax="10" />
+				<default name="container" lootmax="8" />
 				<default name="keepInvalidPoints" enabled="yes" />
 				<default name="clusterMatrix" de="TrajectoryApple" width="12" height="12"/>
 				<default name="clusterMatrix" de="TrajectoryStones" width="12" height="12"/>
@@ -74,8 +74,7 @@
 				<usage name="Military" />
 				<usage name="Underground" />
 				<container name="lootFloor" lootmax="10">
-						<category name="containers" />
-						<category name="clothes" />
+						<category name="weapons" />
 						<category name="tools" />
 						<tag name="floor" />
 						<tag name="ground" />
@@ -20453,7 +20452,7 @@
 				<usage name="Underground" />				
 				<container name="lootTools" lootmax="10">
 						<category name="tools" />																			
-						<category name="food" />						
+						<category name="weapons" />						
 						<point pos="7.701721 0.585022 2.162843" range="0.734375" height="1.335938" />
 						<point pos="-5.861390 1.038391 5.652586" range="0.734375" height="1.335938" />
 						<point pos="7.792112 1.085022 -3.612307" range="0.768750" height="1.370001" />
