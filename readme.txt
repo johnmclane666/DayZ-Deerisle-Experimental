@@ -1,1 +1,1 @@
-Please put the SpawnerBubaku.JSON in your misssion\profile\SpawnerBubaku Folder (after Server has run at least 1 time) to have AI spawns in special areas. 
+
