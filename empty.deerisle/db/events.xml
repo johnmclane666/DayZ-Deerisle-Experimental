@@ -1114,9 +1114,9 @@
 	
 
 <event name="StaticPlantFernA"> <!-- 1 -->
-    <nominal>1</nominal>
-    <min>1</min>
-    <max>1</max>
+    <nominal>0</nominal>
+    <min>0</min>
+    <max>0</max>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <saferadius>5</saferadius>
@@ -1132,9 +1132,9 @@
   </event>
 
 <event name="StaticPlantFernB"> <!-- 1 -->
-    <nominal>1</nominal>
-    <min>1</min>
-    <max>1</max>
+    <nominal>0</nominal>
+    <min>0</min>
+    <max>0</max>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <saferadius>5</saferadius>
@@ -1150,9 +1150,9 @@
   </event>
 
 <event name="StaticPlantFernC"> <!-- 6 -->
-    <nominal>1</nominal>
-    <min>1</min>
-    <max>1</max>
+    <nominal>0</nominal>
+    <min>0</min>
+    <max>0</max>
     <lifetime>1800</lifetime>
     <restock>0</restock>
     <saferadius>10</saferadius>
