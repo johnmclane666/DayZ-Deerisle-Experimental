@@ -34,5 +34,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="log_missionfilewarning" value="true"/>
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
+		<default name="randomloot_deloot_perevent" value="3" />
 	</defaults>
 </economycore>

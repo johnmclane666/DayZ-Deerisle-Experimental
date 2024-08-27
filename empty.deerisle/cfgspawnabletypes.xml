@@ -1117,12 +1117,12 @@
 		<attachments preset="HeavyHelmetArmy" />
 	</type>
 	<type name="InfectedSoldierHardJMC">
+		<cargo preset="STAG_Clothing" />	
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />			
 		<cargo preset="mixArmy" />
 		<cargo preset="ammoArmyJMC" />	
-		<cargo preset="mixArmyJMC" />
-		<cargo preset="STAG_Clothing" />	
+		<cargo preset="mixArmyJMC" />		
 		<attachments preset="STAG_Vests" />
 		<attachments preset="STAG_Hats" />
 		<attachments preset="STAG_Bags" />
@@ -3785,62 +3785,62 @@
 		</attachments>
 	</type>
 --><type name="ttar9">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="Mag_MP5_15Rnd" chance="1.00" />
 		</attachments>		
 	</type>
 	<type name="ttbar">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="Mag_VAL_20Rnd" chance="1.00" />
 		</attachments>		
 	</type>
 	<type name="ttr700">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="ttr700mag" chance="1.00" />
 		</attachments>		
 	</type>	
 	<type name="ttrpd">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="ttrpdmag" chance="1.00" />
 		</attachments>		
 	</type>		
 	<type name="ttscar">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
 		</attachments>		
 	</type>		
 	<type name="ttstg44">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
 		</attachments>		
 	</type>			
 	<type name="ttstg44">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
 		</attachments>		
 	</type>			
 	<type name="ttp90">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="ttp90mag" chance="1.00" />
 		</attachments>		
 	</type>	
 	<type name="ots71">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="Mag_MP5_15Rnd" chance="1.00" />
 		</attachments>		
 	</type>	
 	<type name="aek">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="Mag_AKA101_30Rnd" chance="1.00" />
 		</attachments>		
 	</type>	
 	<type name="junkak">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
 		</attachments>		
 	</type>		
 	<type name="ESP_G36C">
-		<attachments chance="0.75">
+		<attachments chance="0.3">
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
 		</attachments>		
 	</type>		

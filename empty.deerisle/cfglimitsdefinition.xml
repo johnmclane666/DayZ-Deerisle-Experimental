@@ -4,7 +4,7 @@
 		<category name="tools"/>
 		<category name="containers"/>
 		<category name="clothes"/>
-		<category name="vehiclesparts"/>
+		<category name="lootdispatch"/>
 		<category name="food"/>
 		<category name="industrialfood"/>
 		<category name="weapons"/>
@@ -41,6 +41,7 @@
 		<usage name="PlantsC" />		
 		<usage name="Special"/>
 		<usage name="SMK"/>
+        <usage name="Lunapark"/>
         <usage name="Underground"/>		
 		<usage name="Historical"/>
 	</usageflags>
@@ -53,16 +54,7 @@
 		<value name="Tier6"/>
 		<value name="Tier7"/>
 		<value name="Tier8"/>
-		<value name="Tier9"/>
-		<value name="Tier10"/>		
-		<value name="Tier11"/>		
-		<value name="Tier12"/>		
-		<value name="Tier13"/>		
-		<value name="Tier14"/>		
-		<value name="Tier15"/>	
-		<value name="Tier16"/>	
-		<value name="Tier17"/>	
-		<value name="Tier18"/>	
+		<value name="Tier9"/>		
 		<value name="Unique"/>
 	</valueflags>
 </lists>
