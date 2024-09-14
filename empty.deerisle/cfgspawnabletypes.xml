@@ -3844,4 +3844,199 @@
 			<item name="Mag_STANAG_30Rnd" chance="1.00" />
 		</attachments>		
 	</type>		
+	
+	<type name="jmc_atv_Blue">
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+	</type>	
+	<type name="jmc_atv_Red">
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+	</type>	
+	<type name="jmc_atv_Grey">
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+	</type>		
+	<type name="jmc_atv_Green">
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+	</type>		
+	<type name="jmc_atv_Pink">
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+	</type>		
+	<type name="jmc_atv_Aqua">
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="jmc_atv_Wheel" chance="0.90" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.75" />
+		</attachments>
+	</type>		
+	<type name="Boat_01_Black">
+		<attachments chance="0.20">
+		  <item name="SparkPlug" chance="1.0" />
+		</attachments>
+    </type>
+	<type name="Boat_01_Blue">
+		<attachments chance="0.20">
+		  <item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Boat_01_Camo">
+		<attachments chance="0.20">
+		  <item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="Boat_01_Orange">
+		<attachments chance="0.20">
+		  <item name="SparkPlug" chance="1.0" />
+		</attachments>
+	</type>
 </spawnabletypes>

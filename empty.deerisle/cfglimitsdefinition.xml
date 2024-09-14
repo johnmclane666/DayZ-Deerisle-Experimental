@@ -10,6 +10,7 @@
 		<category name="weapons"/>
 		<category name="books"/>
 		<category name="explosives"/>
+		<category name="KMUCKeycard"/>		
 	</categories>
 	<tags>
 		<tag name="floor"/>
@@ -40,10 +41,8 @@
 		<usage name="PlantsB" />	
 		<usage name="PlantsC" />		
 		<usage name="Special"/>
-		<usage name="SMK"/>
-        <usage name="Lunapark"/>
-        <usage name="Underground"/>		
-		<usage name="Historical"/>
+		<usage name="SMK"/>        
+        <usage name="Underground"/>				
 	</usageflags>
 	<valueflags>
 		<value name="Tier1"/>
