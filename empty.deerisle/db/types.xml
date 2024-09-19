@@ -26651,7 +26651,7 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
   </type>
-  <type name="jmc_atv_Grey">
+  <type name="jmc_atv_Gray">
     <nominal>0</nominal>
     <lifetime>3888000</lifetime>
     <restock>1800</restock>

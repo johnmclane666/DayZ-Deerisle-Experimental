@@ -1284,7 +1284,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="jmc_atv_Grey"/>            
+            <child lootmax="0" lootmin="0" max="5" min="3" type="jmc_atv_Gray"/>
         </children>
     </event>
 	<event name="VehicleATVCivil">

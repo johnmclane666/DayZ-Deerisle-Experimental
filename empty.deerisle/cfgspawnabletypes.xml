@@ -3903,7 +3903,7 @@
 			<item name="HeadlightH7" chance="0.75" />
 		</attachments>
 	</type>	
-	<type name="jmc_atv_Grey">
+	<type name="jmc_atv_Gray">
 		<attachments chance="1.00">
 			<item name="jmc_atv_Wheel" chance="0.90" />
 		</attachments>
